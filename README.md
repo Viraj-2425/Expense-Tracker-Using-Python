@@ -33,30 +33,6 @@ main.py
 
 ---
 
-## How It Works
-
-The program allows users to:
-
-1. Add expense details
-2. Store expense data in a list
-3. Display all expenses
-4. Calculate total spending
-5. Exit the application
-
----
-
-## Sample Menu
-
-```bash
---Menu--
-1. Add Expense
-2. View All Expenses
-3. View Total Expense
-4. Exit
-```
-
----
-
 ## How to Run
 
 ### Step 1
@@ -87,6 +63,32 @@ python main.py
 ```
 
 ---
+
+
+## How It Works
+
+The program allows users to:
+
+1. Add expense details
+2. Store expense data in a list
+3. Display all expenses
+4. Calculate total spending
+5. Exit the application
+
+---
+
+## Sample Menu
+
+```bash
+--Menu--
+1. Add Expense
+2. View All Expenses
+3. View Total Expense
+4. Exit
+```
+
+---
+
 
 ## Future Improvements
 
