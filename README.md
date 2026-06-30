@@ -10,7 +10,6 @@ Add expenses with date, category, description, and amount
 View all recorded expenses
 Calculate total expenses
 Manage expenses through a menu-driven interface
-
 The project is designed for beginners to understand Python fundamentals such as lists, dictionaries, loops, conditional statements, and user input handling.
 
 🚀 Features
