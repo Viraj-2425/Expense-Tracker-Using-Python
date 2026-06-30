@@ -15,7 +15,6 @@ The project is designed for beginners to understand Python fundamentals such as 
 
 🚀 Features
 Add Expense
-
 Users can add:
 
 Date
